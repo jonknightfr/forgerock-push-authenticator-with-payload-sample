@@ -1,0 +1,20 @@
+PODS:
+  - JSONWebToken (2.2.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - JSONWebToken
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSONWebToken
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  JSONWebToken: 6fae32489632658d563dd6952a5c34020ea813e4
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 5860eee85c6b5910699611e08bacfb6b075c0c01
+
+COCOAPODS: 1.6.1

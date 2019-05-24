@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9B8E1F3DDC0F1538E49F943EE21B27664AA5E6E5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "ca16bcf9-9eb2-46e4-97b8-9b07c30c95dc++3944" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9B8E1F3DDC0F1538E49F943EE21B27664AA5E6E5" : 0,
+    "ca16bcf9-9eb2-46e4-97b8-9b07c30c95dc++3944" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F71E22DD-295C-4AF2-8786-FA54915777AD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9B8E1F3DDC0F1538E49F943EE21B27664AA5E6E5" : "Cinnamon\/",
+    "ca16bcf9-9eb2-46e4-97b8-9b07c30c95dc++3944" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cinnamon",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cinnamon\/Cinnamon.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/steffow\/Cinnamon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9B8E1F3DDC0F1538E49F943EE21B27664AA5E6E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.forgerock.org\/commons",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ca16bcf9-9eb2-46e4-97b8-9b07c30c95dc++3944"
+    }
+  ]
+}
